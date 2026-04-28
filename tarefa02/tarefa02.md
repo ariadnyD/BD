@@ -2,9 +2,9 @@
 
 Este documento apresenta uma visão técnica sobre as tecnologias de integração de banco de dados utilizadas no desenvolvimento de software, com foco na linguagem **Python**.
 
-## 1. Scripts e Programas Criados
+## 1. Scripts e Programas Criados - Comparativo Prático (Driver vs ORM)
 
-* [Script de Criação do Banco de Dados](./scripts/database_setup.sql)
+* [Script usando Driver](./BD/tarefa02/teste_driver.py)
 * [Programa Principal (Back-end)](./src/main.py)
 * [Definição de Modelos (ORM)](./src/models.py)
 
